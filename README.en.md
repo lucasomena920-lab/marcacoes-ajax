@@ -6,7 +6,7 @@ A booking system for a made-up hair salon, "Salão Aurora". Customers pick a ser
 
 The goal was to build a page that works without reloading, using `fetch` (AJAX) to talk to a small PHP API that returns JSON.
 
-![Booking page](docs/screenshot-marcar.png)
+![Booking page](screenshot-marcar.png)
 
 ## How it works
 
@@ -25,7 +25,7 @@ The goal was to build a page that works without reloading, using `fetch` (AJAX) 
 
 Free times take into account the opening hours (lunch break, Saturday mornings only, closed on Sunday), the length of the service and existing bookings. All of that lives in `src/config.php`.
 
-![Salon dashboard](docs/screenshot-admin.png)
+![Salon dashboard](screenshot-admin.png)
 
 ## Stack
 
