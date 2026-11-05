@@ -6,7 +6,7 @@ Sistema de marcações para um salão de cabeleireiro fictício, o "Salão Auror
 
 A ideia era fazer uma página que funcionasse toda sem recarregar, usando `fetch` (AJAX) para falar com uma pequena API em PHP que devolve JSON.
 
-![Página de marcação](docs/screenshot-marcar.png)
+![Página de marcação](screenshot-marcar.png)
 
 ## Como funciona
 
