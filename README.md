@@ -25,7 +25,7 @@ A ideia era fazer uma página que funcionasse toda sem recarregar, usando `fetch
 
 As horas livres têm em conta o horário do salão (com pausa de almoço, sábado só de manhã, domingo fechado), a duração do serviço e as marcações que já existem. Tudo isso está configurado em `src/config.php`.
 
-![Painel do salão](docs/screenshot-admin.png)
+![Painel do salão](screenshot-admin.png)
 
 ## Tecnologias
 
